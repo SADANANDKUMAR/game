@@ -1,2 +1,2 @@
 # game
-very intersting game over here 
+very intersting random game over here 
